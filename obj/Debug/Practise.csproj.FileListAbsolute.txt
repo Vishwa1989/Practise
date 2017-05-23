@@ -1,0 +1,6 @@
+c:\users\vishwa\documents\visual studio 2013\Projects\Practise\Practise\bin\Debug\Practise.exe.config
+c:\users\vishwa\documents\visual studio 2013\Projects\Practise\Practise\bin\Debug\Practise.exe
+c:\users\vishwa\documents\visual studio 2013\Projects\Practise\Practise\bin\Debug\Practise.pdb
+c:\users\vishwa\documents\visual studio 2013\Projects\Practise\Practise\obj\Debug\Practise.csprojResolveAssemblyReference.cache
+c:\users\vishwa\documents\visual studio 2013\Projects\Practise\Practise\obj\Debug\Practise.exe
+c:\users\vishwa\documents\visual studio 2013\Projects\Practise\Practise\obj\Debug\Practise.pdb
